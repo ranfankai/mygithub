@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 int x,y;
@@ -6,9 +6,9 @@ long power(int x,int y);
 
 int main()
 {
-	cout<<"ÊäÈëx:";
+	cout<<"è¾“å…¥x:";
 	cin>>x;
-	cout<<"ÊäÈëy:";
+	cout<<"è¾“å…¥y:";
 	cin>>y;
 	cout<<power(x,y)<<endl;
 }

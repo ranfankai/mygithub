@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 using namespace std;
 
 void ST(float f);
@@ -11,8 +11,8 @@ int main()
 
 void ST(float f)
 {
-	cout<<"ÊäÈë»ªÊÏÎÂ¶È£º";
+	cout<<"è¾“å…¥åŽæ°æ¸©åº¦ï¼š";
 	cin>>f;
 	c=(f-32)*5/9;
-	cout<<"ÉãÊÏÎÂ¶ÈÎª£º"<<c<<endl;
+	cout<<"æ‘„æ°æ¸©åº¦ä¸ºï¼š"<<c<<endl;
 }
